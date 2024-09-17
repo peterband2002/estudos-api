@@ -1,4 +1,5 @@
 // import http from 'http'
+import "dotenv/config" // Apenas isso basta para iniciar o dotenv
 import app from './src/App.js'
 
 const PORT = 3000

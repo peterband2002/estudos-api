@@ -1,0 +1,4 @@
+Para proteger informações sensíveis, as variáveis de ambiente, será instalada a biblioteca "dotenv": npm i dotenv
+Logo em seguida, foi criado um arquivo na raiz do projeto: .env
+
+Ao utilizar o express para gerenciamente de rotas, deve-se delcarar rotas mais complexas primeiro.
